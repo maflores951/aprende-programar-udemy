@@ -6,6 +6,7 @@ namespace CursoCSharp_1
     {
         static void Main(string[] args)
         {
+            //Prueba de fork
             //0 a 255
             byte v1 = 200;
             Console.WriteLine("Valor almacenado en la variable de tipo byte:" + v1);
